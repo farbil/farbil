@@ -21,7 +21,7 @@ I'm a passionate **Junior Software Engineer** and I’m currently a first-year *
 
 | **Category**  | **Technologies** |
 |---------------|------------------|
-| **Languages** | [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](#) |
+| **Languages** | [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](#) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) |
 | **Databases** | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) |
 | **Operating Systems** | [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#) |
 | **Cloud Systems** | [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#) [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) |
