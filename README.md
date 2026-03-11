@@ -11,7 +11,7 @@ I'm a passionate **Junior Software Engineer** and I’m currently a first-year *
 
 </div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farbil&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=farbil&label=Profile%20Views&color=39d353&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -28,6 +28,12 @@ I'm a passionate **Junior Software Engineer** and I’m currently a first-year *
 | **Tools** | [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) |
 
 </div>
+
+---
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farbil&theme=github-dark&date_format=j%20M%5B%20Y%5D&card_width=461&card_height=160"/></a>
+</p>
 
 ---
 ## 🌐 Let's Connect with Me
