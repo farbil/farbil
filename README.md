@@ -32,7 +32,7 @@ I'm a passionate **Junior Software Engineer** and I’m currently a first-year *
 ---
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farbil&theme=github-dark&date_format=j%20M%5B%20Y%5D&card_width=461&card_height=160"/></a>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak"/></a>
 </p>
 
 ---
